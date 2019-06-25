@@ -4,6 +4,7 @@ import java.util.List;
 
 public class PersonMain {
 	public static void main(String[] args) {
+		/*Method  reference*/
 		
 		List<Person> list =new ArrayList<>();
 		list.add(new Person(20,"Bran","Kingslanding"));
@@ -12,7 +13,6 @@ public class PersonMain {
 		list.add(new Person(26,"Sansa","Winterfell"));
 		list.add(new Person(20,"Arya","west of Westeros"));
 		
-		//Method  reference
 		Person person = new Person();
 		
 		//by instance

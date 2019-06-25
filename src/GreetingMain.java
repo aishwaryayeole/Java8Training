@@ -15,6 +15,7 @@ public class GreetingMain {
 		
 		 Greeting greeting3 = (String a) -> "Brooklyn nine nine "+ a;
 		 System.out.println(greeting3.greet("is fun"));
+		 
 	
 	}
 }

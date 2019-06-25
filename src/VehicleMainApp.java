@@ -2,8 +2,8 @@
 public class VehicleMainApp {
 	
 	public static void main(String[] args) {
+		/*Anonymous class*/
 		
-		//Anonymous class
 		Vehicle vehicle =new Car();
 		vehicle.accelerate();
 		
